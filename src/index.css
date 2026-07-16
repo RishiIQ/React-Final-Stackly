@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* Tells Tailwind to look for the .dark selector class wrapper */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer utilities {
+  .scrollbar-none::-webkit-scrollbar {
+    display: none;
+  }
+  .scrollbar-none {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}

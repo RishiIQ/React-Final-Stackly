@@ -18,7 +18,7 @@ export default function Navbar() {
         <div className="flex items-center space-x-3 md:space-x-6">
           <Link to="/" className="flex items-center space-x-2 font-bold text-lg sm:text-xl tracking-tight shrink-0">
             <ShoppingBag className="w-5 h-5 sm:w-6 sm:h-6 text-zinc-900 dark:text-white" />
-            <span className="text-zinc-900 dark:text-white">Marketly</span>
+            <span className="text-zinc-900 dark:text-white">Rishi E-Com</span>
           </Link>
           
           {/* Desktop Greeting (Hidden on mobile grid viewports) */}

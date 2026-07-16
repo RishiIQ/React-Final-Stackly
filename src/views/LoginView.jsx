@@ -36,7 +36,7 @@ export default function LoginView() {
           </div>
           <div className="space-y-1">
             <h2 className="text-xl sm:text-2xl font-bold tracking-tight text-zinc-950 dark:text-white">
-              Welcome to Marketly
+              Welcome to Rishi E-Com
             </h2>
             <p className="text-xs sm:text-sm text-zinc-400 dark:text-zinc-500 max-w-[280px] sm:max-w-none mx-auto leading-relaxed">
               Enter your moniker to initiate your premium session customization.
